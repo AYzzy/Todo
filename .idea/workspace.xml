@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0172465-7c53-4c49-8648-35fd6bedb13e" name="Changes" comment="still on it" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jzo7zyjr" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ebz9bVhWYSTbXvYUW02RqxV9uP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP Request.generated-requests | #10.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #11.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #118.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #12.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #13.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #14.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #16.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #18.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #23.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #24.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #25.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #26.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #27.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #28.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #29.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #30.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #31.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #32.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #33.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #34.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #35.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #36.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #38.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #39.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #40.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #41.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #42.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #43.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #45.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #46.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #47.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #48.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #49.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #50.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #51.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #52.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #54.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #55.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #56.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #59.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #7.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #78.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoServiceImplTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoServiceImplTest.testToCreateTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoServiceImplTest.testToDeleteAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoServiceImplTest.testToDeleteByTitle.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoServiceImplTest.testToFindByAuthor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoTaskServiceImplTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoTaskServiceImplTest.testForCompletedTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoTaskServiceImplTest.testForIncompleteTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoTaskServiceImplTest.testToCreateTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoTaskServiceImplTest.testToDeleteAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoTaskServiceImplTest.testToDeleteByTitle.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoTaskServiceImplTest.testToFindByAuthor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoTaskServiceImplTest.testToFindIncompleteTasks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoTaskServiceImplTest.testToFindListOfTasks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoTaskServiceImplTest.testToUpdateTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoUserServiceImplTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoUserServiceImplTest.testCreatTodoTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoUserServiceImplTest.testToCreateTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoUserServiceImplTest.testToDeleteAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoUserServiceImplTest.testToFindUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoUserServiceImplTest.testToLogin.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoUserServiceImplTest.testToLoginWithWrongPassword.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoUserServiceImplTest.testToRegisterUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoUserServiceImplTest.testToUpdate.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoUserServiceImplTest.testUserCanRegister.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceImplTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceImplTest.testToCreateTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceImplTest.testToLogin.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceImplTest.testToRegisterUser.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/new-Era-code/test/BankP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="africa.semicolon.exceptions" />
+      <recent name="africa.semicolon.dto.request" />
+      <recent name="africa.semicolon.dto.response" />
+      <recent name="africa.semicolon.util" />
+      <recent name="africa.semicolon.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="africa.semicolon.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="TodoTaskServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myTodo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.dto.request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.service" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.service.TodoTaskServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoTaskServiceImplTest.testToDeleteAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myTodo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.service" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.service.TodoTaskServiceImplTest" />
+      <option name="METHOD_NAME" value="testToDeleteAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoTaskServiceImplTest.testToDeleteByTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myTodo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.service" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.service.TodoTaskServiceImplTest" />
+      <option name="METHOD_NAME" value="testToDeleteByTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoTaskServiceImplTest.testToFindByAuthor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myTodo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.service" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.service.TodoTaskServiceImplTest" />
+      <option name="METHOD_NAME" value="testToFindByAuthor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="myTodo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="africa.semicolon.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="JUnit.TodoTaskServiceImplTest" />
+        <item itemvalue="JUnit.TodoTaskServiceImplTest.testToDeleteAll" />
+        <item itemvalue="JUnit.TodoTaskServiceImplTest.testToDeleteByTitle" />
+        <item itemvalue="JUnit.TodoTaskServiceImplTest.testToFindByAuthor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0172465-7c53-4c49-8648-35fd6bedb13e" name="Changes" comment="" />
+      <created>1712187918612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712187918612</updated>
+      <workItem from="1712187920160" duration="22043000" />
+      <workItem from="1712239596888" duration="63886000" />
+      <workItem from="1712499301347" duration="2267000" />
+      <workItem from="1712515146848" duration="3473000" />
+      <workItem from="1712524559322" duration="3584000" />
+      <workItem from="1712562889114" duration="1083000" />
+      <workItem from="1712577630393" duration="38453000" />
+      <workItem from="1712679764468" duration="5700000" />
+      <workItem from="1712734119481" duration="9054000" />
+      <workItem from="1712791907210" duration="5499000" />
+      <workItem from="1712852572076" duration="11783000" />
+      <workItem from="1712955894481" duration="7523000" />
+      <workItem from="1713044551287" duration="3575000" />
+      <workItem from="1713126745981" duration="7574000" />
+      <workItem from="1713200769591" duration="11236000" />
+      <workItem from="1713267338584" duration="1891000" />
+      <workItem from="1713269919726" duration="5033000" />
+      <workItem from="1713285781946" duration="2840000" />
+      <workItem from="1713301575968" duration="8623000" />
+      <workItem from="1713514265379" duration="731000" />
+      <workItem from="1713770308178" duration="692000" />
+      <workItem from="1714746969246" duration="668000" />
+      <workItem from="1714751085403" duration="578000" />
+      <workItem from="1714816303860" duration="596000" />
+      <workItem from="1715160085490" duration="4458000" />
+      <workItem from="1715254348205" duration="22914000" />
+      <workItem from="1715329645813" duration="351000" />
+      <workItem from="1715330529818" duration="1213000" />
+      <workItem from="1715336555777" duration="13624000" />
+      <workItem from="1715590758685" duration="1226000" />
+      <workItem from="1715685160249" duration="16238000" />
+      <workItem from="1715757978584" duration="2914000" />
+      <workItem from="1733300929599" duration="508000" />
+      <workItem from="1733304179201" duration="782000" />
+      <workItem from="1733307716763" duration="400000" />
+      <workItem from="1733309884773" duration="891000" />
+      <workItem from="1733318210762" duration="1016000" />
+      <workItem from="1733345521647" duration="1900000" />
+      <workItem from="1733355121569" duration="607000" />
+      <workItem from="1733357938081" duration="653000" />
+      <workItem from="1733385123351" duration="625000" />
+      <workItem from="1733389249629" duration="2219000" />
+      <workItem from="1733394881382" duration="680000" />
+      <workItem from="1733406701676" duration="462000" />
+      <workItem from="1733408948043" duration="1128000" />
+    </task>
+    <task id="LOCAL-00001" summary="to do">
+      <option name="closed" value="true" />
+      <created>1712236015468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712236015468</updated>
+    </task>
+    <task id="LOCAL-00002" summary="to do touch">
+      <option name="closed" value="true" />
+      <created>1712381892265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712381892266</updated>
+    </task>
+    <task id="LOCAL-00003" summary="to do touch">
+      <option name="closed" value="true" />
+      <created>1712471994224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712471994225</updated>
+    </task>
+    <task id="LOCAL-00004" summary="to do touchd">
+      <option name="closed" value="true" />
+      <created>1712595017163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712595017164</updated>
+    </task>
+    <task id="LOCAL-00005" summary="to do touchu">
+      <option name="closed" value="true" />
+      <created>1712656635720</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712656635720</updated>
+    </task>
+    <task id="LOCAL-00006" summary="to do touchur">
+      <option name="closed" value="true" />
+      <created>1712756174283</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712756174283</updated>
+    </task>
+    <task id="LOCAL-00007" summary="to do touch of todoService">
+      <option name="closed" value="true" />
+      <created>1712853842548</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712853842548</updated>
+    </task>
+    <task id="LOCAL-00008" summary="to do touch of todoServiceq">
+      <option name="closed" value="true" />
+      <created>1713055242419</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713055242419</updated>
+    </task>
+    <task id="LOCAL-00009" summary="to do touch of todoServicer">
+      <option name="closed" value="true" />
+      <created>1713291320907</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713291320907</updated>
+    </task>
+    <task id="LOCAL-00010" summary="to do touch of todoServicer">
+      <option name="closed" value="true" />
+      <created>1715330575915</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715330575915</updated>
+    </task>
+    <task id="LOCAL-00011" summary="still on it">
+      <option name="closed" value="true" />
+      <created>1715762738096</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715762738096</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="to do" />
+    <MESSAGE value="to do touch" />
+    <MESSAGE value="to do touchd" />
+    <MESSAGE value="to do touchu" />
+    <MESSAGE value="to do touchur" />
+    <MESSAGE value="to do touch of todoService" />
+    <MESSAGE value="to do touch of todoServiceq" />
+    <MESSAGE value="to do touch of todoServicer" />
+    <MESSAGE value="still on it" />
+    <option name="LAST_COMMIT_MESSAGE" value="still on it" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
